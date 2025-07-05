@@ -5,10 +5,20 @@ A modern web-based parking spot recommender system built with Python Flask, Tail
 ## Features
 
 - **Homepage:** Modern, attractive UI with project highlights
-- **About Us:** Info about the team and project vision
+- **About Us:** Meet the creator and learn about the motivation behind PS Reco
 - **User Authentication:** Signup, login, and logout using secure password hashing
 - **Dashboard:** Placeholder for future parking spot recommendations (coming soon)
 - **Responsive Design:** Styled with Tailwind CSS and DaisyUI for mobile and desktop
+
+## About Us
+
+**Purab**
+
+Hi! I'm Purab, a 10th standard student passionate about technology and building real-world solutions. I love working with Python and Flutter, and enjoy learning new frameworks and tools to solve interesting problems.
+
+This project, Parking Spot Recommender (PS Reco), was created as part of a hackathon challenge. My goal is to make parking smarter and more efficient for everyone, using modern web technologies and a user-friendly design. I believe that even as a student, it's possible to build impactful applications that address everyday challenges.
+
+I'm always eager to learn, collaborate, and innovate. Thank you for checking out PS Reco!
 
 ## Technology Stack
 
