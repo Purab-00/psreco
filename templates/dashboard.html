@@ -1,0 +1,9 @@
+{% extends 'base.html' %}
+{% block title %}Dashboard | PS Reco{% endblock %}
+{% block content %}
+<div class="card bg-base-100 shadow-xl p-8">
+    <h2 class="text-3xl font-bold mb-2">Dashboard</h2>
+    <p>Welcome, {{ current_user.email }}!</p>
+    <p class="mt-4">Parking spot recommendations will appear here in a future update.</p>
+</div>
+{% endblock %}
